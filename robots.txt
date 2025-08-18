@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://photonflow.shop/sitemap.xml
